@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido como uma introdução à Imersão Front-End da Alura.
 
+## Acesse o projeto
+
+👉 https://pedrocassol.github.io/imersao-alura-frontend-introducao/
+
 ## Sobre o projeto
 
 O objetivo desta atividade foi aprender a utilizar ferramentas de Inteligência Artificial no desenvolvimento web.
